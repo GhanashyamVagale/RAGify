@@ -1,0 +1,29 @@
+.App {
+  /* text-align: center; */
+  /* background-color: #36454F;
+    color: #ffffff; */
+}
+
+body {
+  background-color: #36454F !important;
+  color: #ffffff !important;
+}
+
+.features {
+  background-color: #36454F !important;
+  color: #ffffff !important;
+}
+
+.form {
+  background-color: #36454F !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+  /* width: 70% !important; */
+}
+
+.logo {
+  height: 40px;
+  width: auto;
+  border-radius: 50%;
+  object-fit: cover;
+}
